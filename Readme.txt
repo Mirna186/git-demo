@@ -1,2 +1,2 @@
 Mirna Pušeljić
-Neki novi tekst 
+ovo mijenjamo kroz guithub.com
